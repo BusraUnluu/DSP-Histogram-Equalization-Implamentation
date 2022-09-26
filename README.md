@@ -1,4 +1,4 @@
-# DSP-Histogram-Equalization-Implamentation
+# DSP-Histogram-Equalization-Implementation
 Digital Signal Processing, Histogram Equalization Implementation 
 
 In this project, two different (normal and modified histogram equalization) histogram equalization algorithm are implamented. 
